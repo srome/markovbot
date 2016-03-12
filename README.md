@@ -11,4 +11,4 @@ the plots of several Star Wars movies, the opening crawls, several Star Trek mov
 2) Fill out the twitter authorization information (consumer_key, consumer_secret (token), access_key, access_secret (token))
 in the main method. This must be obtained through twitter. I recommend reading about Tweepy's authorization procedure.
 
-3) Run "python main.py" from the command prompt.
+3) Run "python bot.py" from the command prompt.
